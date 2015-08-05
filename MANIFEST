@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+changes
+dist.ini
+lib/Perl/Critic/Policy/BuiltinFunctions/ProhibitDeleteOnArrays.pm
+t/BuiltinFunctions/ProhibitDeleteOnArrays.run
+t/policies.t
+t/release-pod-syntax.t
